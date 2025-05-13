@@ -6,5 +6,5 @@ technical documentation for https://learn.microsoft.com.
 
 ---
 
-[![Pat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatAltimore))](https://github.com/PatAltimore)
+[![Pat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatAltimore)](https://github.com/PatAltimore)
 
